@@ -25,8 +25,8 @@ int main(){
               k++; sum+=f;
           }
       }
-    cout <<"\nAmount of divisors: " << k; // Виведення кількості
-    cout<<"\nSum of divisors: "<< sum; // Виведення суми
+    cout <<"\nAmount of divisors: " << k; // Виведення кількості.
+    cout<<"\nSum of divisors: "<< sum; // Виведення суми.
       }
    }
      return 0;
